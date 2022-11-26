@@ -3,7 +3,7 @@
 # Said Saillant - Data Scientist and Analytic Philosopher
 
 <p dir="auto" align="center">
-    Philosopher and research analyst passionate about working with data in business, academic, and nonprofit environments.  My technical areas of expertise include automated data-analytic tools, scrapers, and monitors in Python, SQL, web (HTML, CSS) languages in Windows and Linux environments.  I have experience with dozens of Python packages for analytics, web development, and scientific research.  My portfolio includes projects where I have applied my data analytics, automation, statistics, and machine learning skills. <br><br> Contact me to learn more and engage my skills on your project.<br><br>
+    Philosopher and research analyst passionate about working with data in business, academic, and nonprofit environments.  My technical areas of expertise include automated data-analytic tools, scrapers, and monitors in Python, SQL, web (HTML, CSS) languages in Windows and Ubuntu environments.  I have experience with dozens of Python packages for analytics, web development, and scientific research.  My portfolio includes projects where I have applied my data analytics, automation, statistics, and machine learning skills. <br><br> Contact me to learn more and engage my skills on your project.<br><br>
     <a href="https://www.linkedin.com/in/saidsaillant/" rel="nofollow">
         <img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
     <a href="mailto:ssaillant@societassapiens.org?subject=[GitHub]%20Hello%20Said" >
@@ -21,7 +21,7 @@
 ### Computer Operating systems
 <p>
    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-    <img src="https://img.shields.io/badge/Linux-36497B?style=for-the-badge&logo=linux&logoColor=white">
+    <img src="https://img.shields.io/badge/Ubuntu-36497B?style=for-the-badge&logo=ubuntu&logoColor=white">
 </p>
 
 ### 👨‍💻 Python Libraries
@@ -36,11 +36,4 @@
 
 ```python
 {"Author": "Said Saillant", "Updated": "2022-11-21"}
-```
-
-
-
-
-```python
-
 ```
