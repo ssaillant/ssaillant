@@ -1,3 +1,5 @@
+![Header](./your-header-image-name.png)
+
 # Said Saillant - Data Scientist and Analytic Philosopher
 
 <p dir="auto" align="center">
