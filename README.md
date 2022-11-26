@@ -39,11 +39,6 @@
 
 
 
-    {'Author': 'Said Saillant', 'Updated': '2022-11-21'}
-
-
-
-
 ```python
 
 ```
