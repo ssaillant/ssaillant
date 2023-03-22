@@ -6,7 +6,7 @@ Hey there! 👋 I'm Said, a traveling philosopher and researcher, deeply interes
 
 - Ph.D. in Philosophy - Massachusetts Institute of Technology (MIT), 2011-2017
 - M.B.A. - Quantic School of Business and Technology, 2019-2020
-- B.A. summa cum laude - Rutgers University-New Brunswick, 2007-2011 (Philosophy, Psychology, Cognitive Science)
+- B.A. summa cum laude - Rutgers-New Brunswick, 2007-2011 (Philosophy, Psychology, Cognitive Science)
 
 ## :rocket: Technical Skills
 
