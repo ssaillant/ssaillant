@@ -1,6 +1,6 @@
 # Said Saillant - Philosopher, AI Researcher, Data Scientist
 
-Hey there! 👋 I'm Said, a traveling philosopher and researcher, deeply interested in AI safety, epistemology, and the societal implications of innovation, calling Santo Domingo, Medellin, and Boston my homes.
+Hey there! 👋 I'm Said, a traveling philosopher and researcher, deeply interested in AI safety, epistemology, and the societal implications of innovation, with roots in Santo Domingo, Medellin, and Boston.
 
 ## :mortar_board: Education
 
