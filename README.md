@@ -1,39 +1,54 @@
-![Header](./github-header-image.png)
+# Said Saillant - Philosopher, AI Researcher, Data Scientist
 
-# Said Saillant - Data Scientist and Analytic Philosopher
+Hey there! 👋 I'm Said, a traveling philosopher and researcher, deeply interested in AI safety, epistemology, and the societal implications of innovation, calling Santo Domingo, Medellin, and Boston my homes.
 
-<p dir="auto" align="center">
-    Philosopher and research analyst passionate about working with data in business, academic, and nonprofit environments.  My technical areas of expertise include automated data-analytic tools, scrapers, and monitors in Python, SQL, web (HTML, CSS) languages in Windows and Ubuntu environments.  I have experience with dozens of Python packages for analytics, web development, and scientific research.  My portfolio includes projects where I have applied my data analytics, automation, statistics, and machine learning skills. <br><br> Contact me to learn more and engage my skills on your project.<br><br>
-    <a href="https://www.linkedin.com/in/saidsaillant/" rel="nofollow">
-        <img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
-    <a href="mailto:ssaillant@societassapiens.org?subject=[GitHub]%20Hello%20Said" >
-        <img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
-</p>
+## :mortar_board: Education
 
-### Technical Skills
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-430098?style=for-the-badge&logo=PostgreSQL&logoColor=white">
-<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
-</p>
+- Ph.D. in Philosophy - Massachusetts Institute of Technology (MIT), 2011-2017
+- M.B.A. - Quantic School of Business and Technology, 2019-2020
+- B.A. summa cum laude - Rutgers University-New Brunswick, 2007-2011 (Philosophy, Psychology, Cognitive Science)
 
-### Computer Operating systems
-<p>
-   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-    <img src="https://img.shields.io/badge/Ubuntu-36497B?style=for-the-badge&logo=ubuntu&logoColor=white">
-</p>
+## :rocket: Technical Skills
 
-### 👨‍💻 Python Libraries
-<p>
-    <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white">
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-    <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=Matplotlib&logoColor=white">
-    <img src="https://img.shields.io/badge/scikit_learn-7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-    <img src="https://img.shields.io/badge/TensorFlow-5CA79A?style=for-the-badge&logo=TensorFlow&logoColor=white">
-</p>
+- **Programming Languages:** Python, SQL
+- **Frameworks/Libraries:** PyTorch, Pandas, NumPy, scikit-learn 
+- **Tools:** DBeaver, Confluence, Jira, Microsoft Office, G Suite
 
+## :book: Projects
 
-```python
-{"Author": "Said Saillant", "Updated": "2022-11-21"}
-```
+### YouReddit Synergy Scraper: Multi-Platform Taste Profiler
+
+YouReddit Synergy Scraper is a powerful tool that extracts and combines user data from YouTube and Reddit to create a comprehensive taste profile for each user, enabling the development of a personalized movie recommendation system.
+
+- Python
+- YouTube Data API
+- Python Reddit API Wrapper (PRAW)
+
+**Repository:** https://github.com/ssaillant/youredditscraper
+
+### CrossMediaRecs: Merging Interests for Tailored Recommendations
+
+CrossMediaRecs leverages machine learning to offer personalized movie recommendations by analyzing users' preferences across TV series, YouTube channels, and subreddits.
+
+- Python
+- Pandas
+- scikit-learn
+
+**Repository:** https://github.com/ssaillant/crossmediarecs
+
+### (pending API access) Pythagoras: A Philosophical Engine 
+
+Pythagoras is an instruction-following LLaMA model fine-tuned on text and figures from all Stanford Encyclopedia of Philosophy entries and linked pages.
+
+- LLaMA Model
+- Hugging Face Transformers
+- PyTorch
+
+**Repository:** https://github.com/ssaillant/pythagoras
+
+## :handshake: Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/saidsaillant/)
+- [Twitter](https://twitter.com/saidsaillant/)
+
+Feel free to reach out if you'd like to collaborate on a project, need help with something, or just want to chat about AGI governance, neural net interpretability, and the philosophy of AI!
