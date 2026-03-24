@@ -1,54 +1,62 @@
-# Said Saillant - Philosopher, AI Researcher, Data Scientist
+# Said Saillant — Philosopher | AI Governance Researcher | Institutional Strategist
 
-Hey there! 👋 I'm Said, a traveling philosopher and researcher, deeply interested in AI safety, epistemology, and the societal implications of innovation, with roots in Santo Domingo, Medellin, and Boston.
+I work at the intersection of philosophy, AI governance, and institutional design, with a focus on how societies can govern advanced AI without sleepwalking into bad incentives, brittle institutions, or imported policy theater.
 
-## :mortar_board: Education
+My recent work centers on AI-ready special economic zones, frontier governance, AI safety and benefit-sharing, middle-power diplomacy, industrial strategy, and the design of public institutions that can actually survive contact with politics.
 
-- Ph.D. in Philosophy - Massachusetts Institute of Technology (MIT), 2011-2017
-- M.B.A. - Quantic School of Business and Technology, 2019-2020
-- B.A. summa cum laude - Rutgers-New Brunswick, 2007-2011 (Philosophy, Psychology, Cognitive Science)
+## What I work on
 
-## :rocket: Technical Skills
+- **AI governance and institutional design**  
+  Governance frameworks, advisory councils, standards, regulatory strategy, and public-interest oversight for advanced AI.
 
-- **Programming Languages:** Python, SQL
-- **Frameworks/Libraries:** PyTorch, Pandas, NumPy, scikit-learn 
-- **Tools:** DBeaver, Confluence, Jira, Microsoft Office, G Suite
+- **AI-ready special economic zones**  
+  Research on next-generation SEZs designed to attract AI and adjacent industries through credible governance, legal certainty, capability-building, and international compatibility.
 
-## :book: Projects
+- **AI policy in the Global South**  
+  Practical approaches to AI governance grounded in state capacity, development strategy, and the realities of emerging economies.
 
-### YouReddit Synergy Scraper: Multi-Platform Taste Profiler
+- **AI for industry and economic transformation**  
+  Strategy work on how countries and institutions can use AI to upgrade productive capacity rather than just consume foreign systems.
 
-YouReddit Synergy Scraper is a powerful tool that extracts and combines user data from YouTube and Reddit to create a comprehensive taste profile for each user, enabling the development of a personalized movie recommendation system.
+- **Philosophy of AI and long-run governance**  
+  Questions around moral status, human value, political legitimacy, epistemology, and the civilizational stakes of advanced AI.
 
-- Python
-- YouTube Data API
-- Python Reddit API Wrapper (PRAW)
+## Recent directions
 
-**Repository:** https://github.com/ssaillant/youredditscraper
+- Contributed to **AI policy and legislative design** in the Dominican Republic, including work on advisory institutions and governance mechanisms.
+- Developed research and strategy on **AI-ready zones**, **frontier governance**, and **institutional models** for attracting high-value technology sectors.
+- Worked on **AI for industry** and public-sector strategy in international development and multilateral contexts.
+- Participated in international conversations on **AI standards**, **governance**, **diplomacy**, and the future of advanced AI systems.
 
-### CrossMediaRecs: Merging Interests for Tailored Recommendations
+## Background
 
-CrossMediaRecs leverages machine learning to offer personalized movie recommendations by analyzing users' preferences across TV series, YouTube channels, and subreddits.
+- **Ph.D. in Philosophy**, Massachusetts Institute of Technology (MIT)
+- **M.B.A.**, Quantic School of Business and Technology
+- **B.A. summa cum laude**, Rutgers University  
+  Philosophy, Psychology, Cognitive Science
 
-- Python
-- Pandas
-- scikit-learn
+My training combines philosophy, policy, strategy, and technical literacy. In practice, that means I can move between first principles and institutional mechanics without pretending those belong to different planets.
 
-**Repository:** https://github.com/ssaillant/crossmediarecs
+## Talk to me about
 
-### (pending API access) Pythagoras: A Philosophical Engine 
+- AI governance that goes beyond slogan inflation
+- AI-ready SEZs and frontier institutional design
+- Global South strategy for advanced AI
+- AI safety, benefit-sharing, and long-run coordination
+- Standards, regulation, and advisory-council design
+- Philosophy of AI, agency, and the future of political order
 
-Pythagoras is an instruction-following LLaMA model fine-tuned on text and figures from all Stanford Encyclopedia of Philosophy entries and linked pages.
+## Open to
 
-- LLaMA Model
-- Hugging Face Transformers
-- PyTorch
+- Speaking engagements
+- Research collaborations
+- Advisory work
+- Policy and strategy conversations
+- Serious discussions at conferences, summits, and events
 
-**Repository:** https://github.com/ssaillant/pythagoras
-
-## :handshake: Let's Connect
+## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/saidsaillant/)
-- [Twitter](https://twitter.com/saidsaillant/)
+- [Twitter / X](https://twitter.com/saidsaillant/)
 
-Feel free to reach out if you'd like to collaborate on a project, need help with something, or just want to chat about AGI governance, neural net interpretability, and the philosophy of AI!
+If you work on AI governance, industrial policy, institutional design, special economic zones, or the future of advanced AI, feel free to reach out.
