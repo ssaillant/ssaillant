@@ -6,8 +6,8 @@ This folder contains basic materials for event organizers, conference teams, mod
 
 - [Short Bio](./short-bio.en.md)
 - [Long Bio](./long-bio.en.md)
-- [Speaker Rider (English)](../speaker-rider.en.md)
-- [Speaker Rider (Español)](../speaker-rider.es.md)
+- [Speaker Rider (English)](media-kit/speaker-rider.en.md)
+- [Speaker Rider (Español)](media-kit/speaker-rider.es.md)
 
 ## Languages
 
