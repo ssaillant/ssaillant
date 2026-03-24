@@ -4,10 +4,11 @@ This folder contains basic materials for event organizers, conference teams, mod
 
 ## Included
 
-- [Short Bio](./short-bio.en.md)
-- [Long Bio](./long-bio.en.md)
-- [Speaker Rider (English)](media-kit/speaker-rider.en.md)
-- [Speaker Rider (Español)](media-kit/speaker-rider.es.md)
+- [Short Bio](./short-bio.md)
+- [Long Bio](./long-bio.md)
+- [Name Pronunciation](./pronunciation.md)
+- [Speaker Rider (English)](./speaker-rider.en.md)
+- [Speaker Rider (Español)](./speaker-rider.es.md)
 
 ## Languages
 
@@ -21,6 +22,20 @@ This folder contains basic materials for event organizers, conference teams, mod
 - [Secondary headshot](./headshots/said-saillant-headshot-secondary.jpg)
 
 Please use the primary headshot unless platform constraints or layout needs make the secondary image a better fit.
+
+## Topics
+
+Said speaks on:
+
+- AI governance
+- AI safety
+- frontier governance
+- institutional design
+- AI-ready special economic zones
+- industrial strategy
+- Global South AI policy
+- diplomacy and advanced AI
+- philosophy and politics of advanced AI
 
 ## Primary Links
 
