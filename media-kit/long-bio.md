@@ -8,4 +8,4 @@ Said holds a Ph.D. in Philosophy from the Massachusetts Institute of Technology 
 
 His work combines philosophical analysis, policy reasoning, strategic judgment, and technical literacy. He speaks and advises on AI governance, AI safety, frontier governance, AI-ready special economic zones, industrial strategy, diplomacy, and the philosophy of advanced AI.
 
-For speaking logistics, event requirements, and booking details, please see his [Speaker Rider](../speaker-rider.md).
+For speaking logistics, event requirements, and booking details, please see his [Speaker Rider](../speaker-rider.en.md).
