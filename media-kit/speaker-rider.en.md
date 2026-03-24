@@ -1,4 +1,4 @@
-# Speaker Rider  
+# Speaker Rider (English) 
 Said Saillant, Ph.D.  
 [LinkedIn](https://www.linkedin.com/in/saidsaillant/) • [X](https://twitter.com/saidsaillant/)
 
