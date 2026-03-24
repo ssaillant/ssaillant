@@ -4,32 +4,25 @@ This folder contains basic materials for event organizers, conference teams, mod
 
 ## Included
 
-- [Short Bio](./short-bio.md)
-- [Long Bio](./long-bio.md)
-- [Name Pronunciation](./pronunciation.md)
-- [Speaker Rider](../speaker-rider.md)
+- [Short Bio](./short-bio.en.md)
+- [Long Bio](./long-bio.en.md)
+- [Speaker Rider (English)](../speaker-rider.en.md)
+- [Speaker Rider (Español)](../speaker-rider.es.md)
+
+## Languages
+
+- English
+- Spanish
+- Available for talks, panels, interviews, moderation, and Q&A in either language
 
 ## Headshots
 
-Headshots live in the [`headshots`](./headshots/) folder.
+- [Primary headshot](./headshots/said-saillant-headshot-primary.jpg)
+- [Secondary headshot](./headshots/said-saillant-headshot-secondary.jpg)
+
+Please use the primary headshot unless platform constraints or layout needs make the secondary image a better fit.
 
 ## Primary Links
 
 - [LinkedIn](https://www.linkedin.com/in/saidsaillant/)
 - [X / Twitter](https://twitter.com/saidsaillant/)
-
-## Topics
-
-Said speaks on:
-
-- AI governance
-- AI safety
-- frontier governance
-- institutional design
-- AI-ready special economic zones
-- industrial strategy
-- Global South AI policy
-- diplomacy and advanced AI
-- philosophy and politics of advanced AI
-
-For speaking logistics, compensation, and booking details, please consult the [Speaker Rider](../speaker-rider.md).
