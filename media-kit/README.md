@@ -18,8 +18,8 @@ This folder contains basic materials for event organizers, conference teams, mod
 
 ## Headshots
 
-- [Primary headshot](./headshots/said-saillant-headshot-primary.jpg)
-- [Secondary headshot](./headshots/said-saillant-headshot-secondary.jpg)
+- [Primary headshot](./media-kit/headshots/said-saillant-headshot-primary.jpg)
+- [Secondary headshot](./media-kit/headshots/said-saillant-headshot-secondary.jpg)
 
 Please use the primary headshot unless platform constraints or layout needs make the secondary image a better fit.
 
