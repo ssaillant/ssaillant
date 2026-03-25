@@ -31,6 +31,7 @@ My recent work focuses on AI-ready special economic zones, middle-power diplomac
 - Contributed to **AI policy and legislative design** in the Dominican Republic.
 - Developed research and strategy on **AI-ready zones**, **frontier governance**, and institutional models for technology-led development.
 - Worked on **AI for industry**, multilateral strategy, and public-sector approaches to digital transformation.
+- Developed **institutional-design options for a UK regulatory sandbox** compatible with the country’s tradition of regulatory independence.
 - Participated in international discussions on **AI standards**, **governance**, **diplomacy**, and advanced AI.
 
 ## Background
