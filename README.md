@@ -4,7 +4,7 @@
 
 I work on AI governance, AI safety, frontier institutions, industrial strategy, and the design of credible public-interest frameworks for advanced AI.
 
-My recent work focuses on AI-ready special economic zones, middle-power diplomacy, Global South strategy for advanced AI, and institutional design that can survive contact with politics.
+My recent work focuses on AI-ready special economic zones, middle-power diplomacy, developing-country strategy for advanced AI, and institutional design that can survive contact with politics.
 
 ## What I work on
 
@@ -20,7 +20,7 @@ My recent work focuses on AI-ready special economic zones, middle-power diplomac
 - **AI-ready special economic zones**  
   Research on next-generation SEZs built to attract AI and adjacent industries through legal credibility, state capacity, and international compatibility.
 
-- **Global South AI strategy**  
+- **Developing-country AI strategy**  
   Policy and development approaches grounded in actual institutional constraints rather than imported slogans.
 
 - **Philosophy of advanced AI**  
@@ -51,7 +51,7 @@ I speak on:
 - frontier governance
 - AI-ready special economic zones
 - industrial strategy
-- Global South AI policy
+- developing-country AI policy
 - diplomacy and advanced AI
 - philosophy and politics of advanced AI
 
